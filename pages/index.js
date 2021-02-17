@@ -2,7 +2,6 @@
 import { createGlobalStyle } from 'styled-components';
 import Stats from '../components/Stats';
 import CountrySelector from '../components/CountrySelector';
-import Header from '../components/Header';
 
 const GlobalStyle = createGlobalStyle`
   html {
